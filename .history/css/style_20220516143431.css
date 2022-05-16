@@ -265,11 +265,6 @@ width: 100%;
   }
   .btn{
     width: 100%;
-    padding: 10px 15px 10px 15px;
- 
-  }
- .center{
-margin-left: 20vw;
-
+    padding: 5px 10px 5px 10px;
   }
 }

@@ -250,26 +250,7 @@ hr {
   .mobile-price{
     display: flex;
     justify-content: space-between;
-   margin-bottom: 20px;
-  }
-  .discount{
-    margin-top: 5px;
-  }
-  .checkout{
-    display:flex;
-    flex-direction: column;
-    
-  }
-  .controls{
-width: 100%;
-  }
-  .btn{
-    width: 100%;
-    padding: 10px 15px 10px 15px;
- 
-  }
- .center{
-margin-left: 20vw;
-
+    align-items: center;
+    justify-items: center;
   }
 }

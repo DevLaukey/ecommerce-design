@@ -257,19 +257,10 @@ hr {
   }
   .checkout{
     display:flex;
-    flex-direction: column;
     
+    width: 100vw;
   }
   .controls{
-width: 100%;
-  }
-  .btn{
-    width: 100%;
-    padding: 10px 15px 10px 15px;
- 
-  }
- .center{
-margin-left: 20vw;
 
   }
 }
