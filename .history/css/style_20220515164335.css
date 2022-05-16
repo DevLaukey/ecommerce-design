@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav {
+  display: flex;
+  /* flex-direction: row; */
+  width: 100%;
+  margin:auto;
+}
+nav {
+  display: flex;
+  flex-direction: row;
+}
+.nav-icons{
+    display: flex;
+}

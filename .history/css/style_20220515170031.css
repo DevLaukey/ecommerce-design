@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+p{
+    font-size:16px;
+}
+.nav {
+  display: flex;
+  padding-top: 3vh;
+  align-items: center;
+}
+nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-menu {
+  display: flex;
+  margin-left: 35px;
+  flex-direction: row;
+}
+.options {
+  margin-right: 35px;
+}
+.nav-icons {
+  display: flex;
+  align-items: center;
+}
+.avatar {
+  margin-left: 35px;
+}
+
+.landing{
+    max-width: 80vw;
+    margin-left:10vw;
+    align-items: center;
+}
